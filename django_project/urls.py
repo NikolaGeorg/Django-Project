@@ -16,7 +16,10 @@ Including another URLconf
 """
 
 from django.contrib import admin
+<<<<<<< HEAD
 from django.urls import path
+=======
+>>>>>>> 37081ae (initial commit)
 from django.urls import path, include
 
 urlpatterns = [

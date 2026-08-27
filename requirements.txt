@@ -5,6 +5,10 @@ Django==6.1
 mypy_extensions==1.1.0
 packaging==26.3
 pathspec==1.1.1
+<<<<<<< HEAD
 platformdirs==4.11.2
+=======
+platformdirs==4.11.3
+>>>>>>> 37081ae (initial commit)
 pytokens==0.4.1
 sqlparse==0.6.0

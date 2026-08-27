@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .venv/
+=======
+.venv/
+__pycache__/
+db.sqlite3
+>>>>>>> 37081ae (initial commit)
